@@ -1,0 +1,6 @@
+{
+  "name": "Bản đồ Di sản số Hải Phòng",
+  "description": "Dự án Khoa học Kỹ thuật: Bản đồ Di sản số Hải Phòng dành cho học sinh THPT và cộng đồng yêu văn hóa đất Cảng. Khám phá bản đồ số, hồ sơ di tích, mã QR và tư liệu nghiên cứu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
