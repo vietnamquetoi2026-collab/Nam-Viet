@@ -25,7 +25,7 @@ export const Footer: React.FC<FooterProps> = ({ onSelectTab, onSelectSite }) => 
               </span>
             </div>
             <p className="text-sm leading-relaxed text-[#c3dbe6]">
-              Dự án nghiên cứu Khoa học Kỹ thuật học sinh trung học: Số hóa không gian lịch sử, văn hóa và thiên nhiên thành phố Hải Phòng phục vụ giáo dục địa phương.
+              Dự án nghiên cứu Khoa học Kỹ thuật của nhóm học sinh lớp 10 Sử - Trường THPT Chuyên Trần Phú: Số hóa không gian lịch sử, văn hóa và thiên nhiên thành phố Hải Phòng phục vụ giáo dục địa phương.
             </p>
             <div className="p-3 bg-[#0d2a3e] rounded-lg border border-[#1b4a6b] text-xs text-amber-200 flex items-start gap-2">
               <ShieldCheck className="w-4 h-4 text-[#D5A85C] shrink-0 mt-0.5" />

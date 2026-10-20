@@ -248,7 +248,7 @@ export const HomeView: React.FC<HomeViewProps> = ({ onSelectTab, onSelectSite })
                 Ứng Dụng Công Nghệ Số Trong Giáo Dục Di Sản Địa Phương
               </h2>
               <p className="text-sm text-gray-600 leading-relaxed">
-                Dự án được xây dựng bởi nhóm học sinh THPT Hải Phòng nhằm giải quyết khoảng cách giữa sách vở và thực địa, mang đến công cụ học tập trực quan cho các môn học <strong>Lịch sử</strong>, <strong>Địa lý</strong> và <strong>Giáo dục địa phương</strong>.
+                Dự án được xây dựng bởi nhóm học sinh lớp 10 Sử - Trường THPT Chuyên Trần Phú nhằm giải quyết khoảng cách giữa sách vở và thực địa, mang đến công cụ học tập trực quan cho các môn học <strong>Lịch sử</strong>, <strong>Địa lý</strong> và <strong>Giáo dục địa phương</strong>.
               </p>
 
               <div className="space-y-3 pt-2">

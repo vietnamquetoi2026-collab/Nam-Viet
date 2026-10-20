@@ -136,7 +136,7 @@ export const ProjectMethodologyView: React.FC = () => {
           <div className="space-y-2 text-xs">
             <div className="p-3 rounded-xl bg-gray-50 border border-gray-100">
               <span className="font-bold text-gray-900 block">Nhóm học sinh thực hiện:</span>
-              <span className="text-gray-600">Học sinh lớp 11/12 - Trường THPT tại TP. Hải Phòng</span>
+              <span className="text-gray-600 font-semibold text-[#123B56]">Học sinh lớp 10 Sử - Trường THPT Chuyên Trần Phú</span>
             </div>
             <div className="p-3 rounded-xl bg-gray-50 border border-gray-100">
               <span className="font-bold text-gray-900 block">Lĩnh vực dự thi:</span>
